@@ -1,2 +1,3 @@
 def estimator(data):
-  return data
+	ReportedCases=674
+	return data
